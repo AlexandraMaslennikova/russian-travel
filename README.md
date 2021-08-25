@@ -13,5 +13,6 @@
 * на страницtt есть ссылки на дополнительные ресурсы.
 
 ### Cсылка на проект:
+https://alexandramaslennikova.github.io/russian-travel/index.html
 
 
