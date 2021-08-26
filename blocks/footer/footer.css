@@ -21,10 +21,11 @@
 
 @media screen and (max-width:320px) {
   .footer {
-    display: block;
+    flex-direction: column;
     min-height: 310px;
     max-width: 186px;
     padding-top: 64px;
     padding-right: 16px;
+    margin-left: 16px;
   }
 }
