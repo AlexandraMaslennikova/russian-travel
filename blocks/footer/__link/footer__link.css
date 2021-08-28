@@ -5,13 +5,14 @@
   margin-right: 18px;
   color: #fff;
   text-decoration: none;
+  transition: 0.8s ease;
 }
 
 .footer__link:hover {
   opacity: .8;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:600px) {
   .footer__link {
     display: block;
     margin-bottom: 32px;

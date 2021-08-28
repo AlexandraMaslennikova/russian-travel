@@ -1,14 +1,9 @@
 .header__lang-link {
-  margin-right: 18px;
   font-weight: normal;
   font-size: 24px;
   line-height: 1.17;
-  text-decoration: underline;
-}
-
-.header__lang-link:last-of-type {
   text-decoration: none;
-  margin: 0;
+  color: #fff;
 }
 
 @media screen and (max-width:320px) {
