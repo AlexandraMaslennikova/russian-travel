@@ -18,6 +18,6 @@ https://alexandramaslennikova.github.io/russian-travel/
 
 ### Установка на компьютер: 
 Для начала работы над провектом вам необходимо клонировать репозиторий командой 
-git clone https://github.com/AlexandraMaslennikova/mesto.git в терминале Git BASH, а затем перейти в папку проекта.
+git clone https://github.com/AlexandraMaslennikova/mesto.git в терминале Git BASH и перейти в папку проекта.
 
 
