@@ -1,6 +1,7 @@
 # Путешествия по России
 
 Одностроничный сайт, рассказывающий о путешествиях по России. 
+
 Основной стек: HTML5 и CSS3.
 
 ### Подробнее о работе:
@@ -18,6 +19,6 @@ https://alexandramaslennikova.github.io/russian-travel/
 
 ### Установка на компьютер: 
 Для начала работы над провектом вам необходимо клонировать репозиторий командой 
-git clone https://github.com/AlexandraMaslennikova/russian-travel.git в терминале Git BASH и и открыть его в любом редакторе кода.
+git clone https://github.com/AlexandraMaslennikova/russian-travel.git в терминале Git BASH и открыть его в любом редакторе кода.
 
 
